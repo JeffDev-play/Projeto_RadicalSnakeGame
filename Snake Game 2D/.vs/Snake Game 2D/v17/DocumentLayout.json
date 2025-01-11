@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|c:\\users\\vinic\\projetos unity\\snake game 2d\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\assets\\scripts\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91AC134-DB89-16A6-D315-7DC996D2C9F3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:29:30.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Explosion.cs",
+              "ToolTip": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Explosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:45:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAADwv3EAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:06:25.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:07:06.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Fruit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit.cs",
+              "ToolTip": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Fruit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:58:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Snake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Snake.cs",
+              "ToolTip": "C:\\Users\\vinic\\Projetos Unity\\Snake Game 2D\\Assets\\Scripts\\Snake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Snake.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAwwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:41:32.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
