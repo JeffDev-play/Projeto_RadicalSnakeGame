@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 using static UnityEngine.GraphicsBuffer;
 
 public class Snake : MonoBehaviour
@@ -15,6 +17,7 @@ public class Snake : MonoBehaviour
     [SerializeField] private GameObject bulletPrefab; // Prefab das balas
     [SerializeField] private GameObject healthBar; // Objeto da healthBar que vai servir para a healthBar seguir o player
     [SerializeField] private GameObject gameOver; // Tela de GameOver
+    [SerializeField] private TextMeshProUGUI waveText; // Texto dos waves
     [SerializeField] private GameObject explosionPrefab; // Prefab das mortes dos inimigos
     [SerializeField] private Vector3 offset; // Esse Vector3 serve para ajustar a posição da healthBar do player
     [SerializeField] private UnityEngine.UI.Slider healthBarSlider; // Vai servir para modificar o valor da healthBar
@@ -97,6 +100,7 @@ public class Snake : MonoBehaviour
                     if (currentHealth == 0)
                     {
                         gameOver.SetActive(true);
+                        waveText.text = " ";
                         Time.timeScale = 0;
                     }
                     

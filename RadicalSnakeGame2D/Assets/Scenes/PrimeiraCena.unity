@@ -180,13 +180,14 @@ MonoBehaviour:
   bulletPrefab: {fileID: 6902629682073144238, guid: ed1951051e76e2e4a96acb23d07f329f, type: 3}
   healthBar: {fileID: 176275800}
   gameOver: {fileID: 1860914601}
+  waveText: {fileID: 741068775}
   explosionPrefab: {fileID: 2154603725823683067, guid: a98402f45b5869947b628cfb89648aa5, type: 3}
   offset: {x: 0, y: 3, z: 0}
   healthBarSlider: {fileID: 176275802}
   bulletSpeed: 24
   timerShoot: 0.2
   maxHealth: 5
-  margin: 25
+  margin: 20
   bodyParts:
   - {fileID: 1957705548}
   - {fileID: 953309301}
@@ -514,7 +515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -1114,7 +1115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
