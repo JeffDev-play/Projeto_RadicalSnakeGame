@@ -31,12 +31,11 @@ Além disso, um sistema de vitória foi incluído para recompensar o jogador ao 
    - Para exportar o jogo como um executável, acesse o menu "File > Build Settings...".
    - Selecione a plataforma desejada (Windows, macOS, etc.), configure as opções e clique em "Build".
 
-## Controles
-    1. **Rotação do Player: Use as setas horizontais ou as teclas A/D para rotacionar o player.**
+# Controles do Jogo
 
-    2. **Ocultar/Tornar Visível o Cursor do Mouse: Pressione a tecla Space.**
-
-    3. **Mira e Tiro: Use o cursor do mouse para mirar e clique com o botão esquerdo do mouse para atirar.**
+- **Rotação do Player:** Use as setas horizontais ou as teclas **A/D** para rotacionar o player.
+- **Ocultar/Tornar Visível o Cursor do Mouse:** Pressione a tecla **Space**.
+- **Mira e Tiro:** Use o cursor do mouse para mirar e clique com o botão esquerdo do mouse para atirar.
 
 Se encontrar problemas ou tiver dúvidas, verifique a documentação do código e os comentários implementados.
 
